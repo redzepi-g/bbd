@@ -26,13 +26,12 @@
     </head>
     <body>
     
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col-md-4 mx-auto">
-                    <h3>Hello</h3>
-                </div>
-            </div>
-        </div>
+    <!-- wrapper -->
+    <div class="container-fluid">
+
+        @yield('content')
+        
+    </div>
 
 
     <!-- bootstrap required scripts -->

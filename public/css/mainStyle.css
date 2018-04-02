@@ -1,0 +1,37 @@
+#landing{
+    background: url('../img/landing_bkg.jpg') center fixed no-repeat;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover;
+    height:100vh;
+    color:white;
+    transition: all 0.55s ease-in;
+    transform: scale(1);
+}
+
+
+
+#services{
+    height:100vh;
+    background-color:brown;
+    color:white;
+}
+
+/* navigation ul */
+.landing-nav>li{
+    display: inline-flex;
+    padding: 10px;
+}
+
+.landing-nav>li>a{
+    color:white;
+    text-decoration: none;
+    text-shadow: 4px 2px 4px black;
+    transition: 0.35s;
+}
+
+.landing-nav>li>a:hover{
+    font-size: 1.2rem;
+    text-shadow: 4px 4px 2px black;
+}
