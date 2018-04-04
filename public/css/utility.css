@@ -35,6 +35,9 @@ body{
     margin-top: 30vh;
 }
 
+.position-middle-15{
+    margin-top:15vh;
+}
 /* text-shadow */
 .text-shadow-sm{
     text-shadow: 2px 2px 8px #FF0000;

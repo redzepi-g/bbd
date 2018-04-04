@@ -10,12 +10,35 @@
     transform: scale(1);
 }
 
-
-
 #services{
     height:100vh;
-    background-color:brown;
-    color:white;
+    background-color:white;
+    color:black;
+    transition: all 1s ease;
+}
+
+#tab-one{
+    transition: all 0.35s ease-in;
+    transform: scale(1);
+    
+}
+
+#tab-two{
+    transition: all 0.35s ease-in;
+    transform: scale(1);
+    
+}
+
+#tab-three{
+    transition: all 0.35s ease-in;
+    transform: scale(1);
+   
+}
+
+#tab-four{
+    transition: all 0.35s ease-in;
+    transform: scale(1);
+    
 }
 
 /* navigation ul */
