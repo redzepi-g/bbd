@@ -159,6 +159,71 @@
 
 </section>
 
+<section id="skills">
+
+    <div class="row"> <!-- top row start -->
+        
+        <div class="col-md-2 vh-40 bkg-blue-0">
+
+        </div>
+    
+        <div class="col-md-2 bkg-blue-1">
+
+        </div>
+
+        <div class="col-md-2 bkg-blue-2">
+
+        </div>
+
+        <div class="col-md-2 bkg-blue-3">
+
+        </div>
+
+        <div class="col-md-2 bkg-blue-4">
+
+        </div>
+
+        <div class="col-md-2 bkg-blue-5">
+
+        </div>
+
+    </div> <!-- top row end -->
+
+    <div class="row"> <!-- middle row start -->
+        <div class="col-md-12 vh-20">
+            <p class="text-center my-5">I am a placeholder text will be changed accordingly</p>
+        </div>
+    </div> <!-- middle row end -->
+
+    <div class="row"> <!-- bottom row start -->
+        
+        <div class="col-md-2 vh-40 bkg-blue-0">
+            
+        </div>
+    
+        <div class="col-md-2 bkg-blue-1">
+            
+        </div>
+
+        <div class="col-md-2 bkg-blue-2">
+            
+        </div>
+
+        <div class="col-md-2 bkg-blue-3">
+            
+        </div>
+
+        <div class="col-md-2 bkg-blue-4">
+           
+        </div>
+
+        <div class="col-md-2 bkg-blue-5">
+            
+        </div>
+
+    </div> <!-- bottom row end -->
+</section>
+
 @endsection
 
 @section('customscripts')

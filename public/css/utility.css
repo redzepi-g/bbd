@@ -38,7 +38,66 @@ body{
 .position-middle-15{
     margin-top:15vh;
 }
+
+.margin-vh-5{
+    margin-top:5vh;
+}
+.margin-vh-10{
+    margin-top: 10vh;
+}
+
+/* viewport height */
+.vh-20{
+    height: 20vh;
+}
+
+.vh-30{
+    height:30vh;
+}
+
+.vh-40{
+    height: 40vh;
+}
 /* text-shadow */
 .text-shadow-sm{
     text-shadow: 2px 2px 8px #FF0000;
+}
+
+/* borders */
+.bordered{
+    border:1px solid black;
+}
+
+/* background colors */
+.bkg-blue-0{
+    background-color:#124fb6;
+}
+
+.bkg-blue-1{
+    background-color:#1310a2;
+}
+
+.bkg-blue-2{
+    background-color:#4c1e94;
+}
+
+.bkg-blue-3{
+    background-color:#431b83;
+}
+
+.bkg-blue-4{
+    background-color:#6e1b83;
+}
+
+.bkg-blue-5{
+    background-color:#92177b;
+}
+
+.bkg-white{
+    background-color:white;
+}
+
+/* box shadows */
+.box-shadow-sm{
+    box-shadow: 5px 10px 8px #4c1e94;
 }
